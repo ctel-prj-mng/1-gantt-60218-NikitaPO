@@ -10,3 +10,6 @@
 3. Teamweek (https://teamweek.com).
 
 Для создания можно использовать и другой сервис, если в нём есть функция экспорта в изображение.
+
+# Ссылка c ответом на задание  
+[https://github.com/NikitaPO/grant/blob/master/README.md](https://github.com/NikitaPO/grant/blob/master/README.md)
